@@ -48,7 +48,6 @@ B.tech 4th year Electronics and Telecommunication student. Currently working as 
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Adarsh1Rao&theme=radical&show_icons=true&locale=en&layout=compact"/>
 </p>
-
 <br/>
 <br/>
 <br/>
