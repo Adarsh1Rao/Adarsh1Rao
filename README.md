@@ -46,7 +46,7 @@ B.tech 4th year Electronics and Telecommunication student. Currently working as 
 ### Top Languages:
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Adarsh1Rao&theme=radical&show_icons=true&locale=en&layout=compact"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adarsh1Rao&layout=compact&theme=radical"/>
 </p>
 <br/>
 <br/>
@@ -60,7 +60,7 @@ B.tech 4th year Electronics and Telecommunication student. Currently working as 
 ### GitHub Stats:
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Adarsh1Rao&theme=radical&show_icons=true&locale=en"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Adarsh1Rao&show_icons=true&theme=radical"/>
 </p>
 
 ### Contribution Streak:
